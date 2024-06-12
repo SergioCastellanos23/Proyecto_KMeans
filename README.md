@@ -7,4 +7,5 @@
   - Hicimos dos dataframes para esto, df1 y df2.
     - df1 fue con el metodo KNN
     - df2 fue con el metodo Isolation Forest
-
+- Se decide proceder con el df1, debido a que no elimino tantos outliers como el metodo Isolation Forest.
+- 
