@@ -1,6 +1,6 @@
 # Proyecto_KMeans
 
-### El siguiente proyeto es utilizado para agrupar o segmentar el portafolio de clientes en diferentes grupos con caracteristicas o comportamientos similares. 
+## El siguiente proyeto es utilizado para agrupar o segmentar el portafolio de clientes en diferentes grupos con caracteristicas o comportamientos similares. 
 
 - La base de datos es un dataset limitado al cual se le realizo un análsis de datos, manteniendo dicho análisis simple y sencillo, debido a que ya se habia indagado a profundidad en otro proyecto.
 - Realizamos la limpieza de los datos mediante dos metodos para saber cual metodo era menos discriminantes.
@@ -10,7 +10,7 @@
 - Se decide proceder con el df1, debido a que no elimino tantos outliers como el metodo Isolation Forest.
 - Posteriormente, utilizamos la libreria PCA para reducir las dimensiones.
 
-### Comienza el desarrollo del modelo KMeans:
+## Comienza el desarrollo del modelo KMeans:
 
 - Utilizando el codo de jambu para definir el numero optimo de cluster para nuestro conjunto de datos, se verifica que el numero optimo de cluster son 3.
 
@@ -21,7 +21,7 @@
   - AMOUNT
   - AGE
 
-#### CLUSTER 0:
+### CLUSTER 0:
 - DURATION
   - Media: 14.72
   - Std: 5.94
@@ -49,7 +49,7 @@
   - 75%: 33
   - Max: 56
  
-#### CLUSTER 1
+### CLUSTER 1
 
 - DURATION
   - Media: 15.62
@@ -78,7 +78,7 @@
   - 75%: 54
   - Max: 75
  
-#### CLUSTER 2
+### CLUSTER 2
 
 - DURATION
   - Media: 32.52
