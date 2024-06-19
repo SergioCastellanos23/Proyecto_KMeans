@@ -2,7 +2,7 @@
 
 ## El siguiente proyeto es utilizado para agrupar o segmentar el portafolio de clientes en diferentes grupos con caracteristicas o comportamientos similares. 
 
-- La base de datos es un dataset limitado al cual se le realizo un análsis de datos, manteniendo dicho análisis simple y sencillo, debido a que ya se habia indagado a profundidad en otro proyecto.
+- La base de datos es un dataset limitado, manteniendo dicho análisis simple y sencillo.
 - Realizamos la limpieza de los datos mediante dos metodos para saber cual metodo era menos discriminantes.
   - Hicimos dos dataframes para esto, df1 y df2.
     - df1 fue con el metodo KNN
@@ -109,3 +109,4 @@
 
  ## Conclusiones
  
+Debido a que los datos presentan multicolienalidad se tendrá que analizar más a fondo los datos.
